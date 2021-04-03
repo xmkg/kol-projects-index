@@ -4,7 +4,7 @@ This is a curative list of all projects I've made before for an MMORPG game name
 
 Most of the projects are written in C# language (since they're utilities), and minority are in C++.
 
-DISCLAIMER: All the material are for educational purposes only.
+DISCLAIMER: All the material are for educational purposes only. They're no longer maintained.
 
 - Knight OnLine Table Editor (PENTAGRAM TBL EDITOR)
 - Knight OnLine Executable Editor
